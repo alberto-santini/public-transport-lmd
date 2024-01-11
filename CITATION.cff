@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these instances, please cite them as below."
+authors:
+- family-names: "Delle Donne"
+  given names: "Diego"
+- family-names: "Santini"
+  given-names: "Alberto"
+  orcid: "https://orcid.org/0000-0002-0440-0357"
+- family-names: "Archetti"
+  given-names: "Claudia"
+title: "Instances and results for the paper 'Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches'"
+version: 1.0
+doi: 10.5281/zenodo.10493847
+date-released: 2024-01-11
+url: "https://github.com/alberto-santini/public-transport-lmd"
+preferred-citation:
+  type: techreport
+  authors:
+  - family-names: "Delle Donne"
+    given names: "Diego"
+  - family-names: "Santini"
+    given-names: "Alberto"
+    orcid: "https://orcid.org/0000-0002-0440-0357"
+  - family-names: "Archetti"
+    given-names: "Claudia"
+  journal: "Optimization Online"
+  title: "Integrating Public Transport in Sustainable Last-Mile Delivery: Column Generation Approaches"
+  year: 2024

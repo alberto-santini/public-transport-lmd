@@ -14,7 +14,7 @@ doi: 10.5281/zenodo.10493847
 date-released: 2024-01-11
 url: "https://github.com/alberto-santini/public-transport-lmd"
 preferred-citation:
-  type: techreport
+  type: report
   authors:
   - family-names: "Delle Donne"
     given names: "Diego"

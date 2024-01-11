@@ -1,5 +1,7 @@
 # Integrating Public Transport in Sustainable Last-mile Delivery: Column Generation Approaches
 
+[![DOI](https://zenodo.org/badge/742146072.svg)](https://zenodo.org/doi/10.5281/zenodo.10493846)
+
 This repository contains the instances and the solutions presented in the following paper:
 ```bib
 @techreport{delle_donne_et_al,
@@ -16,8 +18,8 @@ You can also cite this repository through Zenodo:
     title={Instances and Results for the Paper ``Integrating Public Transport in Sustainable Last-mile Delivry: Column Generation Approaches''},
     author={{Delle Donne}, Diego and Santini, Alberto and Archetti, Claudia},
     year={2024},
-    doi={...},
-    url={...}
+    doi={10.5281/zenodo.10493847},
+    url={https://github.com/alberto-santini/public-transport-lmd}
 }
 ```
 

@@ -8,7 +8,7 @@ This repository contains the instances and the solutions presented in the follow
     title={Integrating Public Transport in Sustainable Last-mile Delivery: Column Generation Approaches},
     author={{Delle Donne}, Diego and Santini, Alberto and Archetti, Claudia},
     year={2024},
-    url={...}
+    url={https://optimization-online.org/?p=25263}
 }
 ```
 

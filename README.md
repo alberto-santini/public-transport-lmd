@@ -5,7 +5,7 @@
 This repository contains the instances and the solutions presented in the following paper:
 ```bib
 @techreport{delle_donne_et_al,
-    title={Integrating Public Transport in Sustainable Last-mile Delivry: Column Generation Approaches},
+    title={Integrating Public Transport in Sustainable Last-mile Delivery: Column Generation Approaches},
     author={{Delle Donne}, Diego and Santini, Alberto and Archetti, Claudia},
     year={2024},
     url={...}
@@ -15,7 +15,7 @@ This repository contains the instances and the solutions presented in the follow
 You can also cite this repository through Zenodo:
 ```bib
 @misc{delle_donne_et_al_instances,
-    title={Instances and Results for the Paper ``Integrating Public Transport in Sustainable Last-mile Delivry: Column Generation Approaches''},
+    title={{Instances and Results for the Paper ``Integrating Public Transport in Sustainable Last-mile Delivery: Column Generation Approaches''}},
     author={{Delle Donne}, Diego and Santini, Alberto and Archetti, Claudia},
     year={2024},
     doi={10.5281/zenodo.10493847},

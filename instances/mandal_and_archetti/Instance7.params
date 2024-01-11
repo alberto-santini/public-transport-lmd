@@ -1,0 +1,11 @@
+# Max length of a freighter (in time)
+Lmax 100000.0
+# trucks and freighters capacities
+trucksCap	160.0
+freightersCap	20.0
+# Size of fleet (trucks)
+maxTrucks 8
+# Size of fleet (trucks)
+maxFreightersPerStop	16
+# freighters cost coefficient
+freightRouteCostCoeff	0.5

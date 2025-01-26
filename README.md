@@ -4,11 +4,12 @@
 
 This repository contains the instances and the solutions presented in the following paper:
 ```bib
-@techreport{delle_donne_et_al,
+@article{delle_donne_et_al,
     title={Integrating Public Transport in Sustainable Last-mile Delivery: Column Generation Approaches},
     author={{Delle Donne}, Diego and Santini, Alberto and Archetti, Claudia},
-    year={2024},
-    url={https://optimization-online.org/?p=25263}
+    year=2025,
+    doi={10.1016/j.ejor.2024.12.047},
+    url={https://www.sciencedirect.com/science/article/pii/S0377221724009901}
 }
 ```
 
@@ -17,7 +18,7 @@ You can also cite this repository through Zenodo:
 @misc{delle_donne_et_al_instances,
     title={{Instances and Results for the Paper ``Integrating Public Transport in Sustainable Last-mile Delivery: Column Generation Approaches''}},
     author={{Delle Donne}, Diego and Santini, Alberto and Archetti, Claudia},
-    year={2024},
+    year=2024,
     doi={10.5281/zenodo.10493847},
     url={https://github.com/alberto-santini/public-transport-lmd}
 }

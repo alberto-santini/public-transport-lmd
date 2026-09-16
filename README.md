@@ -34,12 +34,13 @@ The repository contains two datasets:
 * Instances in folder `mandal_and_archetti` are from the following paper and are used for comparison with the method proposed by the paper's authors.
 ```bib
 @misc{mandal_archetti,
-    title={A Decomposition Approach to Last Mile Delivery Using Public Transportation Systems}, 
+    title={Decomposition matheuristics for last mile delivery using public transportation systems}, 
     author={Minakshi Punam Mandal and Claudia Archetti},
-    year={2023},
-    eprint={2306.04219},
-    archivePrefix={arXiv},
-    primaryClass={math.OC}
+    journal={Soft Computing},
+    year=2025,
+    volume=29,
+    pages={1511--1539},
+    doi={10.1007/s00500-025-10513-2}
 }
 ```
 * Instances in folder `delle_donne_et_al` were generated specifically for our paper. We used them as a testbed for our algorithms and to test the effectiveness of the approaches we proposed.

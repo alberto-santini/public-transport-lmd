@@ -27,8 +27,6 @@ You can also cite this repository through Zenodo:
 }
 ```
 
-![](banners/banner1.png)
-
 ## Datasets
 
 The repository contains two datasets:
@@ -46,15 +44,11 @@ The repository contains two datasets:
 ```
 * Instances in folder `delle_donne_et_al` were generated specifically for our paper. We used them as a testbed for our algorithms and to test the effectiveness of the approaches we proposed.
 
-![](banners/banner2.png)
-
 ## Results
 
 Results are provided in the `.csv` format.
 File `delle_donne_instances.csv` constains the results for the instances of folder `delle_donne_et_al`.
 File `mandal_instances.csv` contains the results for the instances of folder `mandal_et_archetti`.
-
-![](banners/banner3.png)
 
 ## Instance format
 

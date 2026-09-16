@@ -1,6 +1,6 @@
 # Integrating Public Transport in Sustainable Last-mile Delivery: Column Generation Approaches
 
-[![DOI](https://zenodo.org/badge/742146072.svg)](https://zenodo.org/doi/10.5281/zenodo.10493846)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22802787.svg)](https://doi.org/10.5281/zenodo.22802787)
 
 > [!IMPORTANT]
 > Instances C2.0, C2.1, C2.2, C3.0, C3.1, C3.2, C3.6, and C3.8 have been updated on **2026-09-16**. The old version allowed up to 5 on-foot courier routes from each out-stop, making the instances infeasible. The correct number, instead, is 10. Despite this error in the instances available in this repository, we used the correct instances in our experiments. Therefore, the adjustment from 5 to 10 is necessary to compare your solutions with ours.
@@ -21,8 +21,8 @@ You can also cite this repository through Zenodo:
 @misc{delle_donne_et_al_instances,
     title={{Instances and Results for the Paper ``Integrating Public Transport in Sustainable Last-mile Delivery: Column Generation Approaches''}},
     author={{Delle Donne}, Diego and Santini, Alberto and Archetti, Claudia},
-    year=2024,
-    doi={10.5281/zenodo.10493847},
+    year=2026,
+    doi={10.5281/zenodo.22802787},
     url={https://github.com/alberto-santini/public-transport-lmd}
 }
 ```

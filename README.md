@@ -5,6 +5,9 @@
 > [!IMPORTANT]
 > Instances C2.0, C2.1, C2.2, C3.0, C3.1, C3.2, C3.6, and C3.8 have been updated on **2026-09-16**. The old version allowed up to 5 on-foot courier routes from each out-stop, making the instances infeasible. The correct number, instead, is 10. Despite this error in the instances available in this repository, we used the correct instances in our experiments. Therefore, the adjustment from 5 to 10 is necessary to compare your solutions with ours.
 
+> [!IMPORTANT]
+> The results file `results/delle_donne_instances.csv` has been updated on **2026-09-29**. Some of the reported primal bounds were incorrect, and the method names did not correspond with the names used in the manuscript.
+
 This repository contains the instances and the solutions presented in the following paper:
 ```bib
 @article{delle_donne_et_al,
